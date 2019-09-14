@@ -27,5 +27,9 @@ module.exports = {
       }
     }
     ]
+  },
+  externals: {
+    react: 'react',
+    'react-dom': 'ReactDOM'
   }
 }
