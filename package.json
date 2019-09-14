@@ -1,0 +1,17 @@
+{
+  "name": "react-pinterest-tag",
+  "version": "0.0.1",
+  "description": "React wrapper for the Pinterest tag.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pinterest",
+    "react",
+    "pinterest",
+    "tag"
+  ],
+  "author": "Jorg van der Ham",
+  "license": "ISC"
+}
