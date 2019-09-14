@@ -2,7 +2,7 @@
   "name": "react-pinterest-tag",
   "version": "0.0.1",
   "description": "React wrapper for the Pinterest tag.",
-  "main": "index.js",
+  "main": "dist/react-pinterest-tag.js",
   "scripts": {
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,16 @@
     "pinterest",
     "tag"
   ],
-  "author": "Jorg van der Ham",
+  "author": { 
+    "name": "Jorg van der Ham",
+    "email": "jorg@ndtw.agency"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlvdh/react-pinterest-tag"
+  },
+  "homepage": "https://github.com/jlvdh/react-pinterest-tag",
+  "bugs": "https://github.com/jlvdh/react-pinterest-tag/issues",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.6.0",
