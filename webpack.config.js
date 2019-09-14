@@ -6,8 +6,8 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'react-pinterest-tag.js',
-    libraryTarget: 'umd',
-    library: 'ReactPinterestTag'
+    library: 'ReactPinterestTag',
+    libraryTarget: 'umd'
   },
   module: {
     rules: [{
